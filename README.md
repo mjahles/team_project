@@ -18,3 +18,9 @@ We will be using Visual Studio Code for the coding, Github and Git for our versi
 
     Adding new tasks/functionalities
 New ideas for tasks/functionalities can be proposed during our daily (in-class) meetings.  Someone can propose a new idea and everyone else can voice their opinion on the idea and decide if it is something that we want to implement at that time.
+
+    Files that .gitignore need to negate
+We need to make sure that .gitignore negates any and all config files.  Other than that there is nothing that I can think of that would need to be ignored at this point.
+
+    Timeline for feature completion
+Our timeline for feature completeion will just be as long as it takes.  If a feature is taking what we determine to be an extended or long period of time to comeplete we will meet up and determine if there is anything that needs to be done by the other team members to help with the completion of the feature.
