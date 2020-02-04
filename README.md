@@ -1,2 +1,1 @@
-    Future Branch/Feature review Protocol
-We each manage our own feature branches.  After we complete the given feature we check in with everyone else and compare our branches together to make sure that there are no conflicts.  Then we push to our intermediate branch (master) where we keep that change until it has been verified to cause no issues at which point we will push that code up to our final branch (production).
+#This is a test
